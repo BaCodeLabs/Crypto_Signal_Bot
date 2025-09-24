@@ -31,14 +31,6 @@ Here are some screenshots of Crypto Signal Bot in action:
   <img src="./Screenshots/image4.png" alt="Start/Stop Buttons" width="250"/>
 </p>
 
-## Getting Started
-
-To get started with Crypto Signal Bot, follow these steps:
-
-1. Open Telegram and search for your bot.
-2. Click **/status** to view the bot status.
-3. Click **Start** to activate signal detection. Signals will appear in your designated Telegram channel automatically.
-
 ## Coming Soon...
 
 - Multi-channel support for alerts
